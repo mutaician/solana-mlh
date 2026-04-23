@@ -61,4 +61,8 @@ const balanceInSol = Number(balance) / 1_000_000_000
 console.log(`\nAddress: ${wallet.address}`);
 console.log(`Balance: ${balanceInSol} SOL`);
 
-console.log(wallet)
+// console.log(wallet)
+console.log(balance)
+
+// notes
+// SOL is Solana's native token and lamport is smallest individual unit of SOL

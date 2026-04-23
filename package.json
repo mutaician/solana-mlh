@@ -10,6 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@solana/kit": "^6.8.0"
+    "@solana/kit": "^6.8.0",
+    "@solana/web3.js": "^1.98.4"
   }
 }
